@@ -190,9 +190,9 @@ SAP BTP             ████████░░░░░░░░░░  40%
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jmkanishkE&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=jmkanishk&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmkanishk&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jmkanishk&layout=compact&hide_border=true&theme=tokyonight" />
 
 </p>
 
@@ -202,10 +202,9 @@ SAP BTP             ████████░░░░░░░░░░  40%
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jmkanishk&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=jmkanishk&theme=tokyonight&hide_border=true" />
 
 </p>
-
 ---
 
 
